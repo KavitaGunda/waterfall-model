@@ -1,5 +1,8 @@
 
 # waterfall-model
+
+**Question:**
+
  Build a waterfall function (using ES5), which:
  1. Takes 2 arguments
      a. An array of asynchronous functions
@@ -63,5 +66,7 @@
      err null
      result e
 
-
-
+**How to run a program:**
+ 1. Clone the repo locally
+ 2. cd to the project directory
+ 3. Run by calling: `node waterfall_model_ES5.js`
