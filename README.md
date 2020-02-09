@@ -1,0 +1,2 @@
+# waterfall-model
+// Build a waterfall function (using ES5), which: // 1. Takes 2 arguments //     a. An array of asynchronous functions //     b. A final callback function // 2. Executes the array of functions sequentially // 3. Pass the result of one function to the next, and so on // 4. Pass the result of last function to the final callback function // 5. If an error occurs during any of the function’s execution, directly jump to the final callback //function, with the error parameter
